@@ -32,30 +32,38 @@ Open the project in RStudio and start exploring the scripts.
 
 The repository includes scripts on the following topics:
 
--   Arrays
--   Data Frames
--   Data Types
--   Demo Examples
--   Factors
--   Functions
--   Conditional Statements (If-else)
--   Lists
--   Loops
--   Matrices
--   Operators
--   Switch-case Statements
--   Taking Input
--   Type Conversion
--   Built-in Functions
--   Creating Vector Functions
--   Importing CSV Files
--   Using dplyr
--   Variables
--   Vectors
--   using Xlsx
--   using magrittr
+-   [Demo](https://github.com/Chakrastra/Learning_R/blob/main/Demo2.R)
+-   [Variables](https://github.com/Chakrastra/Learning_R/blob/main/var%20r.R)
+-   [Data Types](https://github.com/Chakrastra/Learning_R/blob/main/Data_types.R)
+-   [Type Conversion](https://github.com/Chakrastra/Learning_R/blob/main/TypeConversion.R)
+-   [Operators](https://github.com/Chakrastra/Learning_R/blob/main/Oprators.R)
+-   [Conditional Statements(If-else)](https://github.com/Chakrastra/Learning_R/blob/main/If-else.R)
+-   [Switch-case Statements](https://github.com/Chakrastra/Learning_R/blob/main/Switch-case.R)
+-   [Next & Break](https://github.com/Chakrastra/Learning_R/blob/main/Next_Break.R)
+-   [Loops](https://github.com/Chakrastra/Learning_R/blob/main/Loops.R)
+-   [Taking Input](https://github.com/Chakrastra/Learning_R/blob/main/Taking_Input.R)
+-   [Functions](https://github.com/Chakrastra/Learning_R/blob/main/Functions.R)
+-   [Built-in Functions](https://github.com/Chakrastra/Learning_R/blob/main/built-in_functions.R)
+-   [Vectors](https://github.com/Chakrastra/Learning_R/blob/main/vectors.R)
+-   [Lists](https://github.com/Chakrastra/Learning_R/blob/main/List.R)
+-   [Creating Vector Functions](https://github.com/Chakrastra/Learning_R/blob/main/creating_vector_functions.R)
+-   [Arrays](https://github.com/Chakrastra/Learning_R/blob/main/Array.R)
+-   [Matrices](https://github.com/Chakrastra/Learning_R/blob/main/Matrix.R)
+-   [Data Frames](https://github.com/Chakrastra/Learning_R/blob/main/Data_frames.R)
+-   [Factors](https://github.com/Chakrastra/Learning_R/blob/main/Factors.R)
+-   [Importing CSV Files](https://github.com/Chakrastra/Learning_R/blob/main/importing_csv.R)
+-   [Using dplyr](https://github.com/Chakrastra/Learning_R/blob/main/xlsx%26dplyr.R)
+-   [using Xlsx](https://github.com/Chakrastra/Learning_R/blob/main/xlsx%26dplyr.R)
+-   [using magrittr](https://github.com/Chakrastra/Learning_R/blob/main/magrittr.R)
+-   Data Visualization
+    -   [Pie Charts](https://github.com/Chakrastra/Learning_R/blob/main/DV_PieCharts.R)
+    -   [Bar Charts](https://github.com/Chakrastra/Learning_R/blob/main/DV_BarCharts.R)
+    -   [Histograms](https://github.com/Chakrastra/Learning_R/blob/main/DV_Histogram.R)
+    -   [Line Graphs](https://github.com/Chakrastra/Learning_R/blob/main/DV_Linegraph.R)
+    -   [Scatter Plot](https://github.com/Chakrastra/Learning_R/blob/main/DV_ScatterPlot.R)
+    -   [Box Plot](https://github.com/Chakrastra/Learning_R/blob/main/DV_BoxPlot.R)
 
-Each topic is covered in a separate script file, and the file names are descriptive of the content they contain.
+Each topic is covered in a separate script file, and the file names are descriptive of the content they contain. Also go with this [youtube playlist](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF) by [WsCube Tech](https://www.youtube.com/@wscubetech) for better understanding of codes and scripts.
 
 ## Contributing
 
